@@ -67,4 +67,3 @@ Brotato
 每局游戏结束显示结算画面，显示击杀数等数据
 
 支持成就系统
-"# Brotato-based-on-the-cocos2d-x-engine" 
