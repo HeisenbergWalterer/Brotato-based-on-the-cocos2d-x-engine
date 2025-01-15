@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/whoosh_swish_small_harsh_03.wav-f00a05f26420b9cb2347fd667b19d885.sample"
+
+[deps]
+
+source_file="res://entities/units/unit/dodge_sounds/whoosh_swish_small_harsh_03.wav"
+dest_files=[ "res://.import/whoosh_swish_small_harsh_03.wav-f00a05f26420b9cb2347fd667b19d885.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
